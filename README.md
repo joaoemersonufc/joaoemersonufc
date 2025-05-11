@@ -1,9 +1,9 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on @GrupoBoticario.
-- 🌱 Constantly updating my knowledge on Javascript with Remix.js, Node.js, Next.js. 
+- 🌱 Constantly improving my knowledge on Javascript with Next.js and Node.js. 
 - 👯 Fun fact: I'm music producer too.
-- 🤔 Currently involved/studying AWS Infraestructure (Lambdas, API Gateway, S3, Dynamo and others), and Kotlin + Bootspring.
+- 🤔 Currently involved/implementing AWS Infraestructure (Lambdas, API Gateway, S3, Dynamo and others), Kotlin + Bootspring and development with Python + Flask and LLM's.
 - 💬 Lets chat about turn a dream in reality with some code.
 
 ### 📫 How to Reach Me:

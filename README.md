@@ -23,8 +23,8 @@
 ### 🏅 Achievements & Badges:
 
 ![GitHub stars](https://img.shields.io/github/stars/joaoemersonufc?color=FFD700&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/joaoemersonufc/xOryus?color=blue&style=for-the-badge)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/joaoemersonufc/joaoemersonufc?color=brightgreen&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/joaoemersonufc/joaoemersonufc?color=blue&style=for-the-badge)
+![GitHub commits](https://img.shields.io/github/commit-activity/w/joaoemersonufc/joaoemersonufc?color=brightgreen&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/joaoemersonufc/joaoemersonufc?color=green&style=for-the-badge)
 
 ---

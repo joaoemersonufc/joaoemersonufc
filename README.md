@@ -11,14 +11,6 @@
 
 ---
 
-### 🏅 Achievements & Badges:
-
-![GitHub stars](https://img.shields.io/github/stars/joaoemersonufc?color=FFD700&style=for-the-badge)
-![GitHub commits](https://img.shields.io/github/commit-activity/w/joaoemersonufc/joaoemersonufc?color=brightgreen&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/joaoemersonufc/joaoemersonufc?color=green&style=for-the-badge)
-
----
-
 ### 🌟 Want to Collaborate?
 Feel free to reach out if you're interested in working on Web Development, DevOps, SecOps, Testing and/or Mobile Development! I'm always open to new collaborations. Let's build something great together!
 
